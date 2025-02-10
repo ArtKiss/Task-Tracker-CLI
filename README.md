@@ -3,7 +3,7 @@
 Task tracker is a project used to track and manage your tasks. In this task, I will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help me practice my programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
 
 ## Requirements
-### The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
+#### The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
 
 * Add, Update, and Delete tasks
 * Mark a task as in progress or done
@@ -12,7 +12,7 @@ Task tracker is a project used to track and manage your tasks. In this task, I w
 * List all tasks that are not done
 * List all tasks that are in progress
 
-### Here are some constraints to guide the implementation:
+#### Here are some constraints to guide the implementation:
 
 * You can use any programming language to build this project.
 * Use positional arguments in command line to accept user inputs.

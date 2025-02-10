@@ -75,5 +75,3 @@ Here are a few steps to help you get started with the Task Tracker CLI project:
 * Ensure all features are implemented and tested.
 * Clean up your code and add comments where necessary.
 * Write a good readme file on how to use your Task Tracker CLI.
-
-## Happy coding!
